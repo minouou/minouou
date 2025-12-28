@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I'm Minoo!
+I'm curating [JS Books](https://github.com/minouou/JSBooks), a list of best javascript books. Support me with a ⭐
+
 
 <!--
 **roqiak/roqiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
